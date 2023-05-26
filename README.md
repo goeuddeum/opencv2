@@ -4,8 +4,8 @@
 ### -[카메라pub](my_cam_pub.py)
 
 ### -[teachablemachine](my_model.py)
-1~2 python 통신 코드   
-4~7 import  
+1:2 python 통신 코드   
+4:7 import  
 10   출력 옵셜 설정   
 12~15   파일경로 설정   
 21  이름정하기. "r"= 문자로 설정  
