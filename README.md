@@ -3,4 +3,4 @@
 ### -[카메라sub](my_cam_sub.py)
 ### -[카메라pub](my_cam_pub.py)
 
-### -[teachablemachine](my_cam_sub.py)
+### -[teachablemachine](my_model.py)
